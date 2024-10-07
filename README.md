@@ -1,6 +1,3 @@
-Here’s a README template for your SFTP synchronization script. You can customize it further as needed:
-
----
 
 # SFTP Directory Synchronization Tool
 
